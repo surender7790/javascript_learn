@@ -68,3 +68,5 @@ console.log("Number.NEGATIVE_INFINITY= "+Number.NEGATIVE_INFINITY);
 console.log("Pi= "+Math.PI);
 console.log("Number.POSITIVE_INFINITY= "+Number.POSITIVE_INFINITY);
 console.log("Math.pow(2,3)= "+Math.pow(2,3));
+console.log("Math.SQRT1_2= "+Math.SQRT1_2);
+console.log("Math.random()="+Math.random()+1);
